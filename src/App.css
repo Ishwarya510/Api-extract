@@ -1,15 +1,22 @@
 .App {
   text-align: center;
+ 
+}
+h1{
+  color: rgb(236, 14, 88);
 }
 
 table{
-  border: 2px solid rgb(156, 8, 33);
-  border-radius: 20px;
+  border: 2px solid black;
+  border-radius: 35px;
   padding: 10px;
-  color: rgb(121, 110, 110);
+  color: white;
   text-align: center;
+  background-color: lightcoral;
+  border-spacing: 8px;
 }
 .format{
   padding: 10px;
   margin: 20px;
+ 
 }

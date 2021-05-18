@@ -18,7 +18,7 @@ const App=()=> {
       {user.map((users)=>{
          return(
          <div key={users.id} className="format">
-           <table align="center">
+           <table align="center" >
              <tbody>
              <tr>Name:
                <td>{users.name}</td>
